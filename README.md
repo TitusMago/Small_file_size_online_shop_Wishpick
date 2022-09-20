@@ -1,6 +1,6 @@
 # Small file size online shop_Wishpick
 ## Information
-HTML alone built this project. Designed to make Ecommerce simple & build an Ecommerce website with small file size. HTML code includes, list of products,  shop address, phone number, facebook link & Whatsapp message link. This specific website sells electronics people looking for accessories can look at products on facebook & buy products on the website. Clicking product picture gets to payment method. This makes buying online easy. 
+HTML alone built this project. Designed to make Ecommerce simple & to build an Ecommerce website with small file size. HTML code includes, list of products, shop address, phone number, facebook link & Whatsapp message link. This specific website sells electronics. People looking for accessories can buy products on the website, look at products on facebook & post whatsapp messages to shop keeper. Clicking product picture gets to payment method directly. This makes buying online easy. 
 ## Technology
 Project got completed  with HTML code.
 ## Launch
